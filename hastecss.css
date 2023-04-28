@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.guan-dao{
+    float:right;
+    border: 2px solid black;
+    width: 200px;
+}
+
+.alabarda {
+    float: right;
+    border: 2px solid black;
+    width: 290px;
+}
+
+.grid-containerh {
+    display: grid;
+    border-color: 5px black;
+    border-radius: 5px;
+    border: solid;
+}
+
+.text {
+    padding-left: 0px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-right: 10px;
+}
+
